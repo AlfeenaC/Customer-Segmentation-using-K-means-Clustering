@@ -1,4 +1,26 @@
 # Customer-Segmentation-using-K-means-Clustering
+1. Introduction
+
+   
+Customer segmentation helps businesses group customers based on 
+behavior and demographics. This project uses K-Means clustering in R to 
+identify distinct customer groups. 
+
+
+2. Problem Statement 
+To segment customers into groups based on Age, Income, Spending Score, 
+and Purchase Frequency using K-Means clustering and visualize the 
+results.
+
+
+3.Dataset Description 
+The dataset is synthetically generated using normal distribution with 200 
+records and four features. 
+
+
+4.Methodology 
+Data Generation → Scaling → K-Means Clustering → Visualization
+
 
 1. Elbow Plot Code and Output
    library(ggplot2)
